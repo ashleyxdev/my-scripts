@@ -12,7 +12,7 @@ $files = @(
     @{ id = 2; name = "naive-bayes.ipynb"; csv = "document.csv" },
     @{ id = 3; name = "svm.ipynb"; csv = "emails.csv" },
     @{ id = 4; name = "kmeans.ipynb"; csv = "" },
-    @{ id = 5; name = "random-forest.ipynb"; csv = "" },
+    @{ id = 5; name = "random-forest.ipynb"; csv = "car_evaluation.csv" },
     @{ id = 6; name = "boosting.ipynb"; csv = "" },
     @{ id = 7; name = "taxi-problem.ipynb"; csv = "" },
     @{ id = 8; name = "tic-tac-toe.ipynb"; csv = "" }
