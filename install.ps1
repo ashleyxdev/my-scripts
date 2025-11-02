@@ -4,7 +4,7 @@ Write-Host "==============================="
 Write-Host ""
 
 # === Define file lists and dependencies ===
-$repoBase = "https://raw.githubusercontent.com/ashleyxdev/my-notebooks/master"
+$repoBase = "https://raw.githubusercontent.com/ashleyxdev/my-scripts/master"
 
 # Map notebooks to their required CSV files
 $files = @(
