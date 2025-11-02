@@ -10,7 +10,7 @@ $repoBase = "https://raw.githubusercontent.com/ashleyxdev/my-scripts/master"
 $files = @(
     @{ id = 1; name = "linear-regression.ipynb"; csv = "" },
     @{ id = 2; name = "naive-bayes.ipynb"; csv = "document.csv" },
-    @{ id = 3; name = "svm.ipynb"; csv = "" },
+    @{ id = 3; name = "svm.ipynb"; csv = "emails.csv" },
     @{ id = 4; name = "kmeans.ipynb"; csv = "" },
     @{ id = 5; name = "random-forest.ipynb"; csv = "" },
     @{ id = 6; name = "boosting.ipynb"; csv = "" },
